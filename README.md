@@ -18,7 +18,7 @@
 
 8. After simulation is completed run awk file to see the output , 
 
-[root@localhost~] awk f lab1.awk lab1.tr
+[root@localhost~] awk -f lab1.awk lab1.tr
 
 9. To see the trace file contents open the file as , 
 
